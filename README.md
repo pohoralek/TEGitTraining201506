@@ -7,4 +7,5 @@ And some more lines
 # Chapter for additions of trainees
 
 mikolrom: new line
+langes comment ... 
 
