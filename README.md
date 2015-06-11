@@ -8,6 +8,7 @@ And some more lines
 -added a new line
 
 # Chapter for additions of trainees
+rybaajir
 
 ToMik was here also.
 mikolrom: new line
