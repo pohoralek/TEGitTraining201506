@@ -5,4 +5,12 @@ This is a Tieto Czech training of Git
 And some more lines
 
 # Chapter for additions of trainees
+asdf
+assdaf
+asdf
+asdf
+
 changes from pohy
+toto je moje druhá zm?na
+mikolrom: new line
+
